@@ -1,0 +1,12 @@
+a=1
+b=2
+c=3
+d=4
+hlo=a
+a=b
+c=d
+d=hlo
+print(a)
+print(b)
+print(c)
+print(d)
